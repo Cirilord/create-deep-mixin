@@ -15,5 +15,10 @@
     "bugs": {
         "url": "https://github.com/Cirilord/create-deep-mixin/issues"
     },
-    "homepage": "https://github.com/Cirilord/create-deep-mixin#readme"
+    "homepage": "https://github.com/Cirilord/create-deep-mixin#readme",
+    "keywords": [
+        "loopback",
+        "create",
+        "mixin"
+    ]
 }
